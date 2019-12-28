@@ -1,10 +1,22 @@
+/**
+ *
+ * @Name : RationalNumber
+ * @File : com/asrez/RationalNumber.java
+ * @Version : 1.0
+ * @Programmer : Max
+ * @Date : 2019-12-25, 2019-12-27
+ * @Released under : https://github.com/BaseMax/RationalNumber/blob/master/LICENSE
+ * @Repository : https://github.com/BaseMax/RationalNumber
+ * @Reference : https://github.com/BaseMax/RationalNumber
+ *
+ **/
 // import org.junit.Test;
 // import static org.junit.numeratorssert.*;
 
 public class RationalNumber{
 	private int numerator;
 	private int denominator=1;
-	
+
 	public void set(int numerator, int denominator, boolean simplify) {
 		setNumerator(numerator);
 		setDenominator(denominator);
