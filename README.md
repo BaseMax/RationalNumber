@@ -1,5 +1,9 @@
 # Rational Number
 
+A Rational Number class with supporting of + - * / < > >= <= != =.
+
+## Class/Library Structure
+
 ```
 public RationalNumber();
 public RationalNumber(int numerator, int denominator, boolean simplify);
