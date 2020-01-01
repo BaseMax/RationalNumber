@@ -4,7 +4,7 @@ A Rational Number class with supporting of + - * / < > >= <= != =.
 
 ## Class/Library Structure
 
-```
+```java
 public RationalNumber();
 public RationalNumber(int numerator, int denominator, boolean simplify);
 public RationalNumber(int numerator, int denominator);
