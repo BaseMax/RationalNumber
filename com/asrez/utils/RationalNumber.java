@@ -1,3 +1,4 @@
+package com.asrez.utils;
 /**
  *
  * @Name : RationalNumber
